@@ -1,0 +1,1 @@
+https://arcgis.fc.ul.pt/server/rest/services/SLG2021/57541_CAL/GeocodeServer
